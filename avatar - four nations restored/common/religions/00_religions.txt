@@ -1120,6 +1120,7 @@ earth_religions = {
 		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
 		can_retire_to_monastery = yes
 		female_temple_holders = yes
+		male_temple_holders = no
 		can_grant_divorce = yes
 		allow_rivermovement = no
 		uses_decadence = yes
