@@ -1,0 +1,18 @@
+avatar_killer = {
+	inheritance	= patrilineal
+	matrilineal_override = yes
+	allow_bastards  = yes
+	flags = {
+	
+	}
+	command_modifier = {
+		morale_offence = 0.15
+		morale_defence = -0.10
+	}
+	church_opinion = -15
+	same_religion_opinion = -20
+	infidel_opinion = -20
+	active = {
+	
+	}
+}
